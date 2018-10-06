@@ -1,0 +1,9 @@
+D:\C Sharp\Bai lam C sharp\Bai tap\ppsinh\bin\Release\ppsinh.exe.config
+D:\C Sharp\Bai lam C sharp\Bai tap\ppsinh\bin\Release\ppsinh.exe
+D:\C Sharp\Bai lam C sharp\Bai tap\ppsinh\bin\Release\ppsinh.pdb
+D:\C Sharp\Bai lam C sharp\Bai tap\ppsinh\obj\Release\ppsinh.csprojResolveAssemblyReference.cache
+D:\C Sharp\Bai lam C sharp\Bai tap\ppsinh\obj\Release\ppsinh.Form1.resources
+D:\C Sharp\Bai lam C sharp\Bai tap\ppsinh\obj\Release\ppsinh.Properties.Resources.resources
+D:\C Sharp\Bai lam C sharp\Bai tap\ppsinh\obj\Release\ppsinh.csproj.GenerateResource.Cache
+D:\C Sharp\Bai lam C sharp\Bai tap\ppsinh\obj\Release\ppsinh.exe
+D:\C Sharp\Bai lam C sharp\Bai tap\ppsinh\obj\Release\ppsinh.pdb
